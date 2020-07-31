@@ -1,0 +1,9 @@
+install selenium package
+
+download webdriver and specify the location of your webdriver. In my case its line number 5 in script.py file
+
+
+**
+Success rate of this code is 50%. So, some links will work and some will not. Mostly blogger and wordpress sites are compatiable with this code.
+I am still working on this code, if you can help me in fixing error then i will be very happy to work with you
+**
